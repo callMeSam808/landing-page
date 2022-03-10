@@ -1,0 +1,29 @@
+header,
+footer {
+  background-color: #1F2937;
+}
+
+.header {
+  list-style-type: none;
+}
+
+.header a {
+  font-size: 18px;
+  color: #E5E7EB;
+  text-decoration: none;
+}
+
+header p {
+  color: #E5E7EB;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: 800;
+  color: #F9FAF8;
+}
+
+h3 {
+  font-size: 24px;
+  color: #F9FAF8;
+}
